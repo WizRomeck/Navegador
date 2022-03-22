@@ -1,5 +1,5 @@
 * {
-
+	transition: cubic-bezier(23);
 }
 
 .nav-responsive-ul {
